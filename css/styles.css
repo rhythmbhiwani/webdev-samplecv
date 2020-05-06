@@ -27,7 +27,6 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
-  font-size: 1rem;
 }
 
 hr {
@@ -52,6 +51,12 @@ A:hover {
 .contact_msg {
   width: 40%;
   margin: 40px auto 60px;
+}
+
+.contant_intro {
+  width: 50%;
+  font-weight: normal;
+  font-size: 0.75rem;
 }
 
 .btn {
